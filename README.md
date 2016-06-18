@@ -13,3 +13,4 @@ List package
 - [stardict-vi](../../tree/stardict-vi): OVDP Vietname dictionaries from [my repo](../../../stardict-vi)
 - [lightdm-webkit-theme-material-git](../../tree/lightdm-webkit-theme-material-git): LightDM Webkit Material theme not black screen and support random image from [my repo](../../../lightdm-webkit-material)
 - [awesome-gnome](../../tree/awesome-gnome): AwesomeWM in GNOME
+- [robotframework-ride](../../tree/robotframework-ride): RIDE - Robot Framework Test Data Editor
