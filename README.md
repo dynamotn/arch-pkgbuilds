@@ -14,3 +14,4 @@ List package
 - [lightdm-webkit-theme-material-git](../../tree/lightdm-webkit-theme-material-git): LightDM Webkit Material theme not black screen and support random image from [my repo](../../../lightdm-webkit-material)
 - [awesome-gnome](../../tree/awesome-gnome): AwesomeWM in GNOME
 - [robotframework-ride](../../tree/robotframework-ride): RIDE - Robot Framework Test Data Editor
+- [stardict-tools](../../tree/stardict-tools): Stardict tools (e.g. stardict-editor, oxford2dic...)
