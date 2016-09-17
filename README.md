@@ -15,3 +15,4 @@ List package
 - [awesome-gnome](../../tree/awesome-gnome): AwesomeWM in GNOME
 - [robotframework-ride](../../tree/robotframework-ride): RIDE - Robot Framework Test Data Editor
 - [stardict-tools](../../tree/stardict-tools): Stardict tools (e.g. stardict-editor, oxford2dic...)
+- [ibus-bogo](../../tree/ibus-bogo): Ibus BoGo for Vietnamese from [here](https://github.com/BoGoEngine/ibus-bogo-python)
