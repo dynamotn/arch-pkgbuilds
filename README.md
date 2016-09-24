@@ -16,3 +16,4 @@ List package
 - [robotframework-ride](../../tree/robotframework-ride): RIDE - Robot Framework Test Data Editor
 - [stardict-tools](../../tree/stardict-tools): Stardict tools (e.g. stardict-editor, oxford2dic...)
 - [ibus-bogo](../../tree/ibus-bogo): Ibus BoGo for Vietnamese from [here](https://github.com/BoGoEngine/ibus-bogo-python)
+- [python2-libkeepass](../../tree/python2-libkeepass): Library to work with KDB/KDBX file of KeepassX from [here](http://github.com/crass/libkeepass)
