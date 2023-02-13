@@ -1,0 +1,16 @@
+pkgbase = lua54-pam-git
+	pkgdesc = Lua module for PAM authentication
+	pkgver = r3.10613f4
+	pkgrel = 1
+	url = https://github.com/dynamotn/lua-pam
+	arch = x86_64
+	makedepends = git
+	depends = pam
+	depends = lua
+	conflicts = lua-pam
+	conflicts = lua-pam-git
+	conflicts = lua51-pam
+	source = git+https://github.com/dynamotn/lua-pam.git
+	sha256sums = SKIP
+
+pkgname = lua54-pam-git
